@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Dec 18 14:07:06 2020
+# Process ID: 145068
+# Current directory: /home/o8/code/risc-v/chisel/chisel_project/logic_gates
+# Command line: wbtcv -mode batch -source /home/o8/code/risc-v/chisel/chisel_project/logic_gates/vivado_prj/logic_gates.hw/webtalk/labtool_webtalk.tcl -notrace
+# Log file: /home/o8/code/risc-v/chisel/chisel_project/logic_gates/webtalk.log
+# Journal file: /home/o8/code/risc-v/chisel/chisel_project/logic_gates/webtalk.jou
+#-----------------------------------------------------------
+source /home/o8/code/risc-v/chisel/chisel_project/logic_gates/vivado_prj/logic_gates.hw/webtalk/labtool_webtalk.tcl -notrace

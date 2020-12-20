@@ -1,0 +1,35 @@
+[
+  {
+    "class":"firrtl.transforms.CombinationalPath",
+    "sink":"~Mux4|Mux4>io_out",
+    "sources":[
+      "~Mux4|Mux4>io_selector",
+      "~Mux4|Mux4>io_in_0",
+      "~Mux4|Mux4>io_in_1",
+      "~Mux4|Mux4>io_in_2",
+      "~Mux4|Mux4>io_in_3"
+    ]
+  },
+  {
+    "class":"logger.LogLevelAnnotation",
+    "globalLogLevel":{
+      
+    }
+  },
+  {
+    "class":"firrtl.options.TargetDirAnnotation",
+    "directory":"run_dir"
+  },
+  {
+    "class":"firrtl.EmitCircuitAnnotation",
+    "emitter":"firrtl.VerilogEmitter"
+  },
+  {
+    "class":"firrtl.options.OutputAnnotationFileAnnotation",
+    "file":"Mux4"
+  },
+  {
+    "class":"firrtl.transforms.BlackBoxTargetDirAnno",
+    "targetDir":"run_dir"
+  }
+]
